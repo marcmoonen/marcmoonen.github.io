@@ -1,9 +1,9 @@
 +++
 layout = "head"
 title = "Marc Moonen Signal Processing Society Presidential Candidacy"
+hasmath = false
+hascode = false
 +++
-
-@def title = "Marc Moonen"
 
 # Why vote for me?
 
