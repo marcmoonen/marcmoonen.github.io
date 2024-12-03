@@ -1,12 +1,14 @@
-@def title = "Marc Moonen"
++++
+layout = "head"
+title = "Marc Moonen Signal Processing Society Presidential Candidacy"
++++
 
-# Town Hall Videos
-* [Town Hall 2021-08-23](https://youtu.be/gSzDLNyp8mY)
-* [Town Hall 2021-08-24](https://youtu.be/sfoXyfBMGuU)
+@def title = "Marc Moonen"
 
 # Why vote for me?
 
 Finish
+
 <!-- 1. History of creating highly successful and innovative initiatives:
     * 25 years of industry collaborations with HP, GE Healthcare, Lilly, etc. on high-impact products.
     * Started IEEE Trans. on Computational Imaging and CI Technical Committee
@@ -31,7 +33,7 @@ Finish
         * AI and machine learning for science, sensing, and signal processing
         * Autonomous and dynamic SP; graph-based SP; physics aware SP; open-source software -->
 
-# Election Statement  <a id="election_statement" href="#top" style="font-size: .75em; float: right; color: #0642bb; text-align: center; border-bottom: 2px solid #5ea4ee;">Back to top</a>
+# Election Statement
 
 In many ways, the SPS is doing well. Membership is steadily increasing. Journals and conferences are highly reputed, with steadily increasing submission numbers. A new educational program has been launched to offer curated educational content. A new Industry Board has been installed to better serve our members from industry. 
  
@@ -68,7 +70,7 @@ Addressing these (and other) challenges will require creativity and cooperation 
 Based on this, I ask for your vote for President Elect of the IEEE Signal Processing Society! -->
 
 
-# Biography <a id="biography" href="#top" style="font-size: .75em; float: right; color: #0642bb; text-align: center; border-bottom: 2px solid #5ea4ee;">Back to top</a>
+# Biography
 
 Marc Moonen (F) obtained his PhD degree from KU Leuven, Belgium, in 1990. Since 2004 he has been a Full Professor at KU Leuven, E.E. Dept. (ESAT), STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics. Prior to this, he held postdoctoral, assistant-, and associate professor positions at KU Leuven, and was a PhD and postdoctoral visiting researcher at the University of Stanford, the University of Minnesota, and the University of Delft. He also held a visiting professor position at the Advanced Learning and Research Institute (ALaRI), University of Lugano (2000-2017).
 He was head of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics (first term 2013-2017, second term 2017-2021), a KU Leuven research division with 10+ professors and 150+ PhD- and postdoctoral researchers.
@@ -78,11 +80,10 @@ His research is in the field of numerical algorithms and signal processing for d
 He is an IEEE Fellow (2007) and a Fellow of EURASIP (European Association for Signal Processing, 2018). He received the EURASIP Meritorious Service Award (2020). He was co-recipient of the CELTIC Excellence Award (for EU/CELTIC Project ‘BANITS’, 2008), and 10 journals/conference best paper awards.
 
 
-## IEEE Volunteer service <a id="organizational_thrusts" href="#top" style="font-size: .75em; float: right; color: #0642bb; text-align: center; border-bottom: 2px solid #5ea4ee;">Back to top</a>
-
+### IEEE Volunteer service 
 He served as IEEE SPS Vice President-Publications (2021-2023). Prior to this, he served as chair of the IEEE Benelux SPS Chapter (1998-2002), member of the editorial board of the IEEE Transactions on Circuits and Systems-II (2002-2003) and the IEEE Signal Processing Magazine (2003-2005), member of the IEEE SPS Technical Committee on Signal Processing for Communications (first term 2005-2007, second term 2008-2010), member of the ICASSP-2008 Organizing Committee, member of the IEEE SPS Awards Board (2008-2010), area editor for ‘Feature Articles’ for the IEEE Signal Processing Magazine (2012-2014), member of the IEEE SPS Fellow Reference Committee (2014-2016), and member-at-large of the IEEE SPS Board of Governors (2020). Following his VP term, he was a member of the IEEE SPS Nominations and Appointments Committee (2024).
 
-## Other Volunteer service <a id="organizational_thrusts" href="#top" style="font-size: .75em; float: right; color: #0642bb; text-align: center; border-bottom: 2px solid #5ea4ee;">Back to top</a>
+### Other Volunteer service
 He was President of EURASIP (first term 2007-2008, second term 2011-2012). Prior to this, he served on the EURASIP Board of Directors as Treasurer/Secretary and as Director for Publications (2001-2006). He was Chair of the EURASIP Fellow Selection Committee (2018-2021). He was Editor-in-Chief for the EURASIP Journal on Applied Signal Processing (2003-2005), a member of the editorial board of the EURASIP Journal on Applied Signal Processing (2001-2003), EURASIP Journal on Wireless Communications and Networking (2003-2011), and Elsevier Signal Processing (2007-2011). He was a member of the EUSIPCO-2010 Organizing Committee (Tutorials Chair), and the EUSIPCO-2015 Organizing Committee (Awards Chair).
 
 <!-- # Organizational Themes <a id="organizational_thrusts" href="#top" style="font-size: .75em; float: right; color: #0642bb; text-align: center; border-bottom: 2px solid #5ea4ee;">Back to top</a>

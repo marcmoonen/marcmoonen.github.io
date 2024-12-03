@@ -2,11 +2,9 @@
 Add here global page variables to use throughout your website.
 -->
 @def author = "Marc Moonen"
-
-
-<!-- @def website_title = "Marc Moonen Signal Processing Society Presidential Candidacy"
-@def website_descr = "Marc Moonen Signal Processing Society Presidential Candidacy" -->
-<!-- @def website_url   = "https://aabouman.github.io/" -->
+@def website_title = "Marc Moonen Signal Processing Society Presidential Candidacy"
+@def website_descr = "Marc Moonen Signal Processing Society Presidential Candidacy"
+@def website_url   = "https://marcmoonen.github.io/"
 @def prepath = "SignalProcessingPresidentElect"
 
 <!--
