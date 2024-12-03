@@ -63,10 +63,10 @@ header li a:hover {
 }
 
 .profile img {
-  width: min(35%, 350px);
+  width: min(30%, 350px);
   float: left;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 0px;
+  padding-right: 30px;
 }
 
 .profile blockquote {
