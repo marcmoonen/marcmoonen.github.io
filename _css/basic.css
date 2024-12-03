@@ -55,18 +55,19 @@ header li a:hover {
 }
 
 .profile {
-  padding-left: 7%;
-  padding-right: 7%;
-  width: 100%;
-  display: inline-block;
-  padding-bottom: 5px;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+  display: block;  /* Change from inline-block to block */
+  overflow: hidden;  /* Add this to contain floated elements */
 }
 
 .profile img {
-  width: min(30%, 350px);
+  width: min(30%, 300px);
   float: left;
-  padding-left: 0px;
   padding-right: 30px;
+  box-sizing: border-box;
 }
 
 .profile blockquote {
