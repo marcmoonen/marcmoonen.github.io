@@ -9,31 +9,10 @@ title = "Marc Moonen Signal Processing Society Presidential Candidacy"
 
 Finish
 
-<!-- 1. History of creating highly successful and innovative initiatives:
-    * 25 years of industry collaborations with HP, GE Healthcare, Lilly, etc. on high-impact products.
-    * Started IEEE Trans. on Computational Imaging and CI Technical Committee
-    * Started Signal Processing Society Special Interest Groups (SIGs) for growing new technical areas
-2. History of nurturing diversity and working in teams to align efforts:
-    * Created collaborative research group in Integrated Imaging that engages peoples’ strengths
-    * Currently advising a diverse team of PhD students (7 female, 7 male)
-3. Core leadership philosophy:
-    * Improve access and affordability to better serve all members around the globe
-    * Be agile and entrepreneurial to capture opportunities
-    * Focus on quality in publications
-    * Promote SP technology in Speech, Imaging, Sensing, Communications, Data Science, etc.
-4. Organizational Thrusts:
-    * Reduce member costs and barriers to entry
-    * Increase society diversity including underrepresented minorities, women, geographical diversity
-    * Promote open access publications
-    * Create next generation conferences
-    * Drive technology policy
-5. Technology Thrusts:
-    * Lead in emerging technologies
-    * Promote technology initiatives in areas such as:
-        * AI and machine learning for science, sensing, and signal processing
-        * Autonomous and dynamic SP; graph-based SP; physics aware SP; open-source software -->
+<!-- commented section -->
 
 # Election Statement
+@def id = "election_statement"
 
 In many ways, the SPS is doing well. Membership is steadily increasing. Journals and conferences are highly reputed, with steadily increasing submission numbers. A new educational program has been launched to offer curated educational content. A new Industry Board has been installed to better serve our members from industry. 
  
@@ -71,6 +50,7 @@ Based on this, I ask for your vote for President Elect of the IEEE Signal Proces
 
 
 # Biography
+@def id = "biography"
 
 Marc Moonen (F) obtained his PhD degree from KU Leuven, Belgium, in 1990. Since 2004 he has been a Full Professor at KU Leuven, E.E. Dept. (ESAT), STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics. Prior to this, he held postdoctoral, assistant-, and associate professor positions at KU Leuven, and was a PhD and postdoctoral visiting researcher at the University of Stanford, the University of Minnesota, and the University of Delft. He also held a visiting professor position at the Advanced Learning and Research Institute (ALaRI), University of Lugano (2000-2017).
 He was head of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics (first term 2013-2017, second term 2017-2021), a KU Leuven research division with 10+ professors and 150+ PhD- and postdoctoral researchers.
