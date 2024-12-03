@@ -23,7 +23,14 @@ jobs:
           using NodeJS;
           run(`$(npm_cmd()) install highlight.js`);
           using Franklin;
-          optimize()'
+          optimize();
+          # Debug output
+          println("Current directory:");
+          pwd();
+          println("\nContents of current directory:");
+          readdir();
+          println("\nContents of __site directory:");
+          readdir("__site")'
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:
