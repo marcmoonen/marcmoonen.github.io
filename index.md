@@ -7,33 +7,31 @@ hascode = false
 
 # Why vote for me?
 
-Finish...
+Finish this...
 
 <!-- commented section -->
 
 # Election Statement
 @def id = "election_statement"
 
-In many ways, the SPS is doing well. Membership is steadily increasing. Journals and conferences are highly reputed, with steadily increasing submission numbers. A new educational program has been launched to offer curated educational content. A new Industry Board has been installed to better serve our members from industry. 
- 
-Nevertheless, consolidating our favorable position may prove challenging, because some of our structures and processes are non-scalable, non-sustainable, even malfunctioning. Therefore, our first goal should not be to merely pursue further growth in numbers, e.g., membership and submissions, but to future-proof the society by redesigning these structures and processes. Major challenges are then as follows:
+SPS appears to be thriving, e.g., with membership and journal/conference submission numbers showing consistent growth. Nevertheless, it has become evident that some of its critical structures and processes are no longer scalable, sustainable, even malfunctioning. It is essential that these be redesigned, to support healthy further growth. This should be done with emphasis on service and quality, rather than profit and quantity, while demonstrating appreciation and respect for volunteers. 
  
 **Journals and conferences:** 
-Journals and conferences should become one jointly managed ecosystem, allowing journal-conference synergies to be exploited, e.g., to optimally (re)use review resources, and eliminate conference precursors by promoting journal paper presentation in the conferences. To guarantee consistency across journal and conference publication policies, the Publications Board should have ‘conference representatives’, who also assist and bring continuity across successive conference organizing committees. Open access publication, as advocated by our funding agencies, should be supported and promoted more heavily. Post-covid hybrid/virtual conference formats should be further developed for those not able (e.g., for financial reasons) or not willing (e.g., for ecological reasons) to travel. 
+With journals offering similar target submission-to-publication times, conferences no longer offer the sole fast track to publication. Journals and conferences should therefore be jointly managed as one ecosystem, to fully exploit journal-conference synergies, and allow strategic positioning against the newer (but larger) ML/AI conferences. To guarantee consistent journal and conference publication policies, closer collaboration is needed between the Publications- and Conferences Board. To guarantee continuity in policy implementation, structural assistance should be provided to conference organizing committees. For publications, open access should be kept affordable and more heavily supported. For conferences, hybrid/virtual formats should be further developed for those not able or willing to travel.
  
-**Peer-review crisis**
-Recruiting qualified reviewers, especially in journals, has become extremely difficult, leading to compromised quality control and timeliness, burnout among editors, and dissatisfaction among authors. Editorial board structures and workflows to improve efficiency and quality control have recently been adjusted, but more is needed. A system with registered (and committed) reviewers and performance monitoring should be created, to improve review quality and keep editorial work workable. 
+**Quality control**
+Quality control in publications cannot be compromised. However, recruiting qualified reviewers, especially in journals, has become problematic, leading to missed timeliness targets, burnout among editors, and dissatisfaction among authors. In addition to recent adjustments to editorial board structures and workflows, a systematic review commitment and performance monitoring should be implemented to safeguard review quality and editorial productivity, ideally also reducing the review load for the TCs.
  
-**Member services vs. volunteer service**
-Member services and benefits will be expanded where possible. However, many more members should be encouraged to step up from merely service consumers to active volunteers, e.g. reviewers, editors, TC members, mentors. For this, our training activities should be expanded into full professional development programs. To engage more members into sustained volunteer service, e.g., editor and (D)EiC positions should come with a realistically budgeted and affordable time commitment and be efficiently supported by staff.
+**Services vs. service**
+Full support will be given to new initiatives aimed at enhancing member services, e.g., the educational program to offer curated educational content, and the establishment of the Industry Board to better serve industry members. Simultaneously, many more members should be encouraged to take on active volunteer roles, e.g., as reviewers, editors, TC members, mentors. More opportunities should be provided for early career volunteers, training activities should be expanded. To engage more members into sustained volunteer service, volunteer positions should require realistically budgeted time commitments and be sufficiently supported by staff.
  
 **Ethics**
-IEEE ethics standards must be strictly enforced, especially so in a globalized community with strong cultural differences. Journals and conferences, for instance, are increasingly dealing with author/reviewer misconduct cases (GenAI accelerated), where individual case investigations are time-consuming and consistency is not guaranteed. Therefore, a more efficient and agile society-level ethics committee should be installed. 
+IEEE ethical standards must be strictly enforced. In a globalized community with significant cultural differences, more ethics education should be provided, while strong ethical leadership should foster a culture of integrity and transparency. Journals and conferences are increasingly dealing with author/reviewer misconduct cases (ChatGPT!). To ensure consistency and efficiency, and offload editorial boards and conference committees, a society-level ethics committee should be established, as a gateway to IEEE-level support. 
  
 **Finances**
-SPS revenue is primarily publication revenue, hence many SPS activities financially depend on publication revenue. However, publication revenue relies on a paywall model, which is increasingly at risk with the proliferation of free public repositories. Furthermore, it will be significantly reduced by the (long-overdue) transition to open access. A future-proof sustainable financial model is called for.
+SPS is often perceived as a non-transparent business offering overly expensive services. SPS activities are primarily financed from publication revenue. This relies on a paywall model, which is increasingly at risk with the proliferation of free repositories, and furthermore will be significantly reduced by the transition to open access. Therefore, a more transparent and sustainable financial model should be adopted.
  
-Addressing these (and other) challenges will require creativity and cooperation among leadership and volunteers, in an open culture of debate, collegiality, diversity and inclusion. Being selected to lead this endeavor would be a privilege.
+Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.
 
 <!-- ---------------------
 **Growing Technical Opportunities** – Machine learning, algorithms, and software offer vast opportunities in areas ranging from speech to imaging and from practice to theory. We need to provide ever more accessible and affordable technical forums and services to our stakeholders in these rapidly developing areas.
