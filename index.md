@@ -1,4 +1,4 @@
-+++
+RAS+++
 layout = "head"
 title = "Marc Moonen Signal Processing Society Presidential Candidacy"
 hasmath = false
@@ -62,7 +62,7 @@ He is an IEEE Fellow (2007) and a Fellow of EURASIP (European Association for Si
 ### IEEE Volunteer service 
 He served as IEEE SPS Vice President-Publications (2021-2023). Prior to this, he served as member-at-large of the IEEE SPS Board of Governors, as member of the IEEE SPS Awards Board, the IEEE SPS Fellow Reference Committee, the IEEE SPS Technical Committee on Signal Processing for Communications, the ICASSP-2008 Organizing Committee, and as Chair of the IEEE Benelux SPS Chapter. He was a member of the editorial board of the IEEE Transactions on Circuits and Systems-II, the IEEE Signal Processing Magazine, and area editor for ‘Feature Articles’ for the IEEE Signal Processing Magazine. Following his VP term, he was a member of the IEEE SPS Nominations and Appointments Committee.
 
-### Other Volunteer service
+### EURASIP Volunteer service
 He was President of EURASIP (European Association for Signal Processing) for four years (first term 2007-2008, second term 2011-2012). He served on the EURASIP Board of Directors for sixteen years, as Treasurer/Secretary, as Director for Publications, and as President/Past-President. He also served as Chair of the EURASIP Fellow Selection Committee, and as a member of the EUSIPCO-2010 and EUSIPCO-2015 Organizing Committee. He was Editor-in-Chief for the EURASIP Journal on Advances in Signal Processing, and was a member of the editorial board of the EURASIP Journal on Advances in Signal Processing, the EURASIP Journal on Wireless Communications and Networking, and of Elsevier Signal Processing. 
 
 <!-- # Organizational Themes <a id="organizational_thrusts" href="#top" style="font-size: .75em; float: right; color: #0642bb; text-align: center; border-bottom: 2px solid #5ea4ee;">Back to top</a>
