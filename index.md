@@ -16,19 +16,19 @@ Finish this..
 
 SPS appears to be thriving, e.g., with membership and journal/conference submission numbers showing consistent growth. Nevertheless, it has become evident that some of its critical structures and processes are no longer scalable, sustainable, even malfunctioning. It is essential that these be redesigned, to support healthy further growth. This should be done with emphasis on service and quality, rather than profit and quantity, while demonstrating appreciation and respect for volunteers. 
  
-**Journals and conferences:** 
+**Journals and conferences** <br>
 With journals offering similar target submission-to-publication times, conferences no longer offer the sole fast track to publication. Journals and conferences should therefore be jointly managed as one ecosystem, to fully exploit journal-conference synergies, and allow strategic positioning against the newer (but larger) ML/AI conferences. To guarantee consistent journal and conference publication policies, closer collaboration is needed between the Publications- and Conferences Board. To guarantee continuity in policy implementation, structural assistance should be provided to conference organizing committees. For publications, open access should be kept affordable and more heavily supported. For conferences, hybrid/virtual formats should be further developed for those not able or willing to travel.
  
-**Quality control**
+**Quality control** <br>
 Quality control in publications cannot be compromised. However, recruiting qualified reviewers, especially in journals, has become problematic, leading to missed timeliness targets, burnout among editors, and dissatisfaction among authors. In addition to recent adjustments to editorial board structures and workflows, a systematic review commitment and performance monitoring should be implemented to safeguard review quality and editorial productivity, ideally also reducing the review load for the TCs.
  
-**Services vs. service**
+**Services vs. service** <br>
 Full support will be given to new initiatives aimed at enhancing member services, e.g., the educational program to offer curated educational content, and the establishment of the Industry Board to better serve industry members. Simultaneously, many more members should be encouraged to take on active volunteer roles, e.g., as reviewers, editors, TC members, mentors. More opportunities should be provided for early career volunteers, training activities should be expanded. To engage more members into sustained volunteer service, volunteer positions should require realistically budgeted time commitments and be sufficiently supported by staff.
  
-**Ethics**
+**Ethics** <br>
 IEEE ethical standards must be strictly enforced. In a globalized community with significant cultural differences, more ethics education should be provided, while strong ethical leadership should foster a culture of integrity and transparency. Journals and conferences are increasingly dealing with author/reviewer misconduct cases (ChatGPT!). To ensure consistency and efficiency, and offload editorial boards and conference committees, a society-level ethics committee should be established, as a gateway to IEEE-level support. 
  
-**Finances**
+**Finances** <br>
 SPS is often perceived as a non-transparent business offering overly expensive services. SPS activities are primarily financed from publication revenue. This relies on a paywall model, which is increasingly at risk with the proliferation of free repositories, and furthermore will be significantly reduced by the transition to open access. Therefore, a more transparent and sustainable financial model should be adopted.
  
 Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.
