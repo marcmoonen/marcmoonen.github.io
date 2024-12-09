@@ -1,4 +1,4 @@
-RAS+++
++++
 layout = "head"
 title = "Marc Moonen Signal Processing Society Presidential Candidacy"
 hasmath = false
@@ -11,7 +11,7 @@ Finish this.......
 
 <!-- commented section -->
 
-# Election Statement
+# Statement
 @def id = "election_statement"
 
 SPS appears to be thriving, e.g., with membership and journal/conference submission numbers showing consistent growth. Nevertheless, it has become evident that some of its critical structures and processes are no longer scalable, sustainable, even malfunctioning. It is essential that these be redesigned, to support healthy further growth. This should be done with emphasis on service and quality, rather than profit and quantity, while demonstrating appreciation and respect for volunteers. 
@@ -32,20 +32,6 @@ IEEE ethical standards must be strictly enforced. In a globalized community with
 SPS is often perceived as a non-transparent business offering overly expensive services. SPS activities are primarily financed from publication revenue. This relies on a paywall model, which is increasingly at risk with the proliferation of free repositories, and furthermore will be significantly reduced by the transition to open access. Therefore, a more transparent and sustainable financial model should be adopted.
  
 Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.
-
-
-<!-- ---------------------
-**Growing Technical Opportunities** – Machine learning, algorithms, and software offer vast opportunities in areas ranging from speech to imaging and from practice to theory. We need to provide ever more accessible and affordable technical forums and services to our stakeholders in these rapidly developing areas.
-
-**Transition to Open Access** – The Society must move rapidly toward OA publication models that are both affordable and sustainable. We will need to develop more OA publication venues while simultaneously developing new business models that leverage the community and third-party investment.
-
-**Next Generation Conferences** – The pandemic created a unique opportunity to reimagine the concept of conferences. When done well with enhanced social interaction, hybrid and online conferences offer the potential to reduce costs and provide greater access for geographically and technically diverse communities to discuss important topics in depth. I would lead the society to create targeted satellite meetings, to exploit the synergy between conferences and journals, and to expand educational, tutorial, and open-source software development activities.
-
-**Increasing Society Diversity** – For a successful future, our society must proactively build diversity by reaching out to under-represented communities and partnering with representative organizations to create a pipeline of future talent. We need to demonstrate and communicate that signal processing can be a fun and rewarding career path for young people around the world with all backgrounds and experiences!
-
-**Technology Policy** – Signal processing technologies play an increasingly important role in the world at large.  The SP Society must engage with the resulting issues by helping to set priorities for technology investment both within and outside the society.  I would seek to engage with a wide range of government and non-government organizations to enhance the future of the signal processing community.
-
-Based on this, I ask for your vote for President Elect of the IEEE Signal Processing Society! -->
 
 
 # Biography
