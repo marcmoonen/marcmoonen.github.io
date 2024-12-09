@@ -52,5 +52,5 @@ He served as SPS Vice President-Publications (2021-2023). Together with the Publ
 
 He also served as member-at-large of the SPS Board of Governors, as member of the SPS Awards Board, the SPS Fellow Reference Committee, the SPS Nominations and Appointments Committee, the SPS Technical Committee on Signal Processing for Communications, the ICASSP-2008 Organizing Committee, and as Chair of the SPS Benelux Chapter. He was a member of the editorial board of the Transactions on Circuits and Systems-II, the Signal Processing Magazine, and area editor for ‘Feature Articles’ for the Signal Processing Magazine. 
 
-### EURASIP Service
+### EURASIP service
 He was President of EURASIP (European Association for Signal Processing) for four years (2007-2008, 2011-2012). He served on the EURASIP Board of Directors for altogether sixteen years, also as Treasurer/Secretary and as Director for Publications. He served as Chair of the EURASIP Fellow Selection Committee, and as member of the EUSIPCO-2010 and EUSIPCO-2015 Organizing Committee. He was Editor-in-Chief for the EURASIP Journal on Advances in Signal Processing, and was a member of the editorial board of the EURASIP Journal on Advances in Signal Processing, the EURASIP Journal on Wireless Communications and Networking, and Elsevier Signal Processing. 
