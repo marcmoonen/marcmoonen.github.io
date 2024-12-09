@@ -104,8 +104,8 @@ h6 {
 .franklin-content h3 {
   padding-bottom: 0em !important;
   /* border-bottom: none; */
-  margin-top: 2em !important;
-  margin-bottom: 0em !important;
+  margin-top: 1.5em !important;
+  margin-bottom: -0.6em !important;
 }
 
 .franklin-content h1 a { color: inherit; }

@@ -57,21 +57,26 @@ header li a:hover {
 .profile {
   max-width: 900px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 10px;
   box-sizing: border-box;
   display: block;  /* Change from inline-block to block */
   overflow: hidden;  /* Add this to contain floated elements */
 }
 
 .profile img {
-  width: min(30%, 300px);
+  width: 100%; /* Make the image responsive */
+  max-width: 250px; /* Set a maximum width for larger screens */
+  height: auto; /* Maintain aspect ratio */
   float: left;
-  padding-right: 30px;
+  padding-right: 25px;
   box-sizing: border-box;
 }
 
-.profile blockquote {
-  font-size: 1em;
+/* Media query for smaller screens */
+@media (max-width: 500px) {
+  .profile img {
+    max-width: 150px; /* Smaller max width for mobile devices */
+  }
 }
 
 .center {
