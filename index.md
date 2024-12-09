@@ -12,7 +12,7 @@ Finish this.......
 <!-- commented section -->
 
 # Statement
-@def id = "election_statement"
+@def id = "statement"
 
 SPS appears to be thriving, e.g., with membership and journal/conference submission numbers showing consistent growth. Nevertheless, it has become evident that some of its critical structures and processes are no longer scalable, sustainable, even malfunctioning. It is essential that these be redesigned, to support healthy further growth. This should be done with emphasis on service and quality, rather than profit and quantity, while demonstrating appreciation and respect for volunteers. 
  
