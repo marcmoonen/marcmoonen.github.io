@@ -5,12 +5,6 @@ hasmath = false
 hascode = false
 +++
 
-# Why vote for me?
-
-Finish this.......
-
-<!-- commented section -->
-
 # Statement
 @def id = "statement"
 
@@ -33,24 +27,38 @@ SPS is often perceived as a non-transparent business offering overly expensive s
  
 Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.
 
+# Why vote for me?
+@def id = "whyvoteforme"
 
-# Biography
-@def id = "biography"
+### SPS leadership experience
+I have served as member-at-large of the SPS Board of Governors (2020), and as SPS Vice President-Publications (2021-2023).\
+As SPS Vice President-Publications I have sought to move beyond business as usual and drive meaningful, lasting change. Together with the Publications Board, I have reorganized the workflow and editorial board structure in the largest SPS journals to improve timeliness and strengthen quality control, modified and automated the nomination/self-nomination process for editorial board members, adjusted policy to allow longer SAE/AE terms wherever relevant, initiated the OJSP short paper submission track for ICASSP/ICIP with editorial board sharing across journals, streamlined requirements for journal paper presentations in conferences, initiated paper cascading ideas, and revised several policies and procedures to improve overall efficiency.
 
-Marc Moonen obtained his PhD degree from KU Leuven, Belgium, in 1990, and has been a Full Professor at KU Leuven, since 2004. Prior to this, he held postdoctoral, and assistant/associate professor positions at KU Leuven, was a PhD- and postdoctoral visiting researcher at the University of Stanford, University of Minnesota, and Delft University of Technology, and visiting professor at ALaRI, University of Lugano.
+### Other leadership experience 
+For eight years (first term 2013-2017, second term 2017-2021), I have been Head of Division of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics, a KU Leuven research division with 10+ professors and 150+ PhD- and postdoctoral researchers.\
+I have served as President of EURASIP (European Association for Signal Processing) for four years (first term 2007-2008, second term 2011-2012). I have served on the EURASIP Board of Directors for altogether sixteen years (1999-2014), also as Treasurer/Secretary and as Director for Publications.\
+I have coordinated the formal registration of EURASIP as a non-profit organization (under Belgian law) and drafted its inaugural Bylaws (2006). As Director for Publications (2005-2006), I have been instrumental in converting some of EURASIP’s existing journals to Open Access and in launching new Open Access journals.  
 
-He was head of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics for eight years (2013-2021), a KU Leuven research division with 10+ professors and 150+ PhD- and postdoctoral researchers.
+### Volunteer service
+I have been Chair of the EURASIP Fellow Selection Committee (2018-2021), and Chair of the SPS Benelux Chapter (1998-2002).\
+I have been a member of the SPS Awards Board (2008-2010), the SPS Fellow Reference Committee (2014-2016), the SPS Nominations and Appointments Committee (2024), the SPS TC on Signal Processing for Communications (first term 2005-2007, second term 2008-2010).\
+I have been as member of the ICASSP-2008 Organizing Committee, the EUSIPCO-2010 Organizing Committee (Tutorials Chair), and the EUSIPCO-2015 Organizing Committee (Awards Chair).\ 
+I have been Editor-in-Chief for the EURASIP Journal on Advances in Signal Processing (2003-2005), area editor for ‘Feature Articles’ for the IEEE Signal Processing Magazine (2012-2014),  and member of the editorial board of the IEEE Transactions on Circuits and Systems-II (2002-2003), EURASIP Journal on Advances in Signal Processing (2001-2003), IEEE Signal Processing Magazine (2003-2005), EURASIP Journal on Wireless Communications and Networking (2003-2011), and Elsevier Signal Processing (2007-2011). 
 
-His research is in the field of numerical algorithms and signal processing for digital communications, digital audio- and speech processing. He has supervised/co-supervised 60 defended PhD-theses, authored/co-authored 300+ journal papers (175+ in IEEE journals) and 400+ international conference papers (150+ in IEEE conferences). 
+### Academic record 
+I have been a Full Professor at KU Leuven, Belgium, since 2004. I have obtained the PhD degree from KU Leuven in 1990, and have been a PhD- and postdoctoral visiting researcher at the University of Stanford, University of Minnesota, and Delft University of Technology, and visiting professor at ALaRI, University of Lugano.
+I am a Fellow of the IEEE (2007), Fellow of EURASIP (2018), recipient of the EURASIP Meritorious Service Award (2020), and co-recipient of the EU/CELTIC Excellence Award (for EU/CELTIC Project ‘BANITS’, 2008) as well as 10 journal/conference best paper awards.\
+For 25+ years I have been heading a team of 15+ PhD- and postdoctoral researchers in the field of numerical algorithms and signal processing for digital communications, digital audio- and speech processing. I have supervised/co-supervised 60 defended PhD-theses, authored/co-authored 300+ journal papers (of which 175+ in IEEE journals) and 400+ international conference papers (of which 150+ in IEEE conferences). 
+[Google Scholar](https://scholar.google.com/citations?user=OX95yYsAAAAJ)
 
-His research has consistently had a strong industry focus, e.g., with over twenty years of ongoing cooperation in the area of digital subscriber lines with Nokia Bell Labs (formerly Alcatel-Bell/Alcatel-Lucent) and in the area of hearing instruments and cochlear implants with Cochlear Ltd. He is also a co-founder of conneXounds (www.connexounds.com), a company developing BYOD audio technology for hybrid meeting environments.
+### Industry and entrepreneurship experience
+My research has consistently had a strong industry focus, e.g., with over twenty years of ongoing cooperation in the area of digital subscriber lines (DSL) with Nokia Bell Labs (formerly Alcatel-Bell/Alcatel-Lucent) and in the area of hearing instruments and cochlear implants with Cochlear Ltd, which has resulted in 10+ patents/patent applications as well as several (DSL) standardization contributions.
+[Nokia Bell Labs Collaboration](https://www.bell-labs.com/institute/blog/ku-leuven-professor-reflects-20-years-collaboration-bell-labs/)\
+I am a co-founder of [CONNEXOUNDS](www.connexounds.com), a company developing BYOD audio technology for hybrid meeting environments. 
 
-He is an IEEE Fellow (2007) and a Fellow of EURASIP (2018). He received a EURASIP Meritorious Service Award (2020), and was co-recipient of the CELTIC Excellence Award (for EU/CELTIC Project ‘BANITS’, 2008) and 10 journals/conference best paper awards.
+### Ethics and values
+The circumstances surrounding these out-of-cycle elections have led to a growing division in the society’s governing bodies. Lessons must be learned and collegiality must be restored, before anything else.\
+I am committed to ensuring that all SPS members are treated fairly and equitably, have equal opportunities to contribute and thrive, and that volunteers are respected and valued for their invested time and effort.\
+I am committed to demonstrating professionalism and integrity, upholding the highest standards of our profession, and fostering trust and accountability to benefit our members and the wider community.
 
-### IEEE service 
-He served as SPS Vice President-Publications (2021-2023). Together with the Publications Board, he reorganized the workflow and editorial board structure to improve timeliness and strengthen quality control in the largest SPS journals, modified and automated the nomination/self-nomination process for editorial board members and adjusted policy to allow longer SAE/AE terms, initiated the OJSP short paper submission track for ICASSP/ICIP with editorial board sharing across journals, streamlined requirements for journal paper presentations in conferences, initiated paper cascading ideas, and revised several policies and procedures to improve overall efficiency. 
 
-He also served as member-at-large of the SPS Board of Governors, as member of the SPS Awards Board, the SPS Fellow Reference Committee, the SPS Nominations and Appointments Committee, the SPS Technical Committee on Signal Processing for Communications, the ICASSP-2008 Organizing Committee, and as Chair of the SPS Benelux Chapter. He was a member of the editorial board of the Transactions on Circuits and Systems-II, the Signal Processing Magazine, and area editor for ‘Feature Articles’ for the Signal Processing Magazine. 
-
-### EURASIP service
-He was President of EURASIP (European Association for Signal Processing) for four years (2007-2008, 2011-2012). He served on the EURASIP Board of Directors for altogether sixteen years, also as Treasurer/Secretary and as Director for Publications. He served as Chair of the EURASIP Fellow Selection Committee, and as member of the EUSIPCO-2010 and EUSIPCO-2015 Organizing Committee. He was Editor-in-Chief for the EURASIP Journal on Advances in Signal Processing, and was a member of the editorial board of the EURASIP Journal on Advances in Signal Processing, the EURASIP Journal on Wireless Communications and Networking, and Elsevier Signal Processing. 
