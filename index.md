@@ -54,7 +54,7 @@ For 25+ years I have been heading a team of 15+ PhD- and postdoctoral researcher
 ### Industry and entrepreneurship experience
 My research has consistently had a strong industry focus, e.g., with over twenty years of ongoing cooperation in the area of digital subscriber lines (DSL) with Nokia Bell Labs (formerly Alcatel-Bell/Alcatel-Lucent) and in the area of hearing instruments and cochlear implants with Cochlear Ltd, which has resulted in 10+ patents/patent applications as well as several (DSL) standardization contributions.
 [Nokia Bell Labs Collaboration](https://www.bell-labs.com/institute/blog/ku-leuven-professor-reflects-20-years-collaboration-bell-labs/)\
-I am a co-founder of [CONNEXOUNDS](www.connexounds.com), a company developing BYOD audio technology for hybrid meeting environments. 
+I am a co-founder of [CONNEXOUNDS](https://www.connexounds.com), a company developing BYOD audio technology for hybrid meeting environments. 
 
 ### Ethics and values
 The circumstances surrounding these out-of-cycle elections have led to a growing division in the society’s governing bodies. Lessons must be learned and collegiality must be restored, before anything else.\
