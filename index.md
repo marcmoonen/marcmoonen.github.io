@@ -28,7 +28,7 @@ SPS is often perceived as a non-transparent business offering overly expensive s
 Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.
 
 # Why vote for me?
-@def id = "whyvoteforme"
+@def id = "why_vote_for_me"
 
 ### SPS leadership experience
 I have served as member-at-large of the SPS Board of Governors (2020), and as SPS Vice President-Publications (2021-2023).\
