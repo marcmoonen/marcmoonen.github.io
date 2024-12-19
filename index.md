@@ -5,8 +5,8 @@ hasmath = false
 hascode = false
 +++
 
-# Statement
 @def id = "statement"
+# Statement
 
 SPS appears to be thriving, e.g., with membership and journal/conference submission numbers showing consistent growth. Nevertheless, it has become clear that some of its critical structures and processes have become non-scalable, non-sustainable, or even malfunctioning. It is essential that these be redesigned to support healthy further growth. This should be done with emphasis on service and quality, rather than profit and quantity, while demonstrating appreciation and respect for volunteers. 
  
@@ -25,10 +25,10 @@ IEEE ethical standards must be strictly enforced. In a globalized community with
 ### Finances
 SPS is often perceived as a non-transparent business offering overly expensive services. SPS activities are primarily financed from publication revenue. This relies on a paywall model, which is increasingly at risk with the proliferation of free repositories, and furthermore will be significantly reduced by the transition to open access. Therefore, a more transparent and sustainable financial model should be adopted.
  
-Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.
+Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.\
 
-# Why vote for me?
 @def id = "why_vote_for_me"
+# Why vote for me?
 
 ### SPS leadership experience
 I served as SPS Vice President-Publications (2021-2023) and as member-at-large of the SPS Board of Governors (2020).\
