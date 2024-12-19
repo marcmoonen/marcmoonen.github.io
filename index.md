@@ -36,11 +36,11 @@ As SPS Vice President-Publications I have sought to move beyond business as usua
 
 ### Other leadership experience 
 I served as President of EURASIP (European Association for Signal Processing) for four years (first term 2007-2008, second term 2011-2012). I served on the EURASIP Board of Directors for sixteen years (1999-2014), including terms as Treasurer/Secretary and as Director of Publications.\
-I coordinated the formal registration of EURASIP as a non-profit organization (under Belgian law) and drafted its inaugural Bylaws (2006). As Director of Publications (2005-2006), I drove the transition of selected EURASIP journals to Open Access and oversaw the launch of new Open Access journals.\  
+I coordinated the formal registration of EURASIP as a non-profit organization (under Belgian law) and drafted its inaugural Bylaws (2006). As Director of Publications (2005-2006), I drove the transition of selected EURASIP journals to Open Access and oversaw the launch of new Open Access journals.\
 For eight years (first term 2013-2017, second term 2017-2021), I was Head of Division of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics, a KU Leuven research division with 10+ professors and over 150 PhD- and postdoctoral researchers.
 
 ### Volunteer service
-I held the role of Chair of the EURASIP Fellow Selection Committee (2018-2021) and Chair of the SPS Benelux Chapter (1998-2002). I was a member of the SPS Awards Board (2008-2010), the SPS Fellow Reference Committee (2014-2016), the SPS Nominations and Appointments Committee (2024), and the SPS Technical Committee on Signal Processing for Communications (first term 2005-2007, second term 2008-2010). I was a member of the ICASSP-2008 Organizing Committee, the EUSIPCO-2010 Organizing Committee (Tutorials Chair), and the EUSIPCO-2015 Organizing Committee (Awards Chair). \
+I held the role of Chair of the EURASIP Fellow Selection Committee (2018-2021) and Chair of the SPS Benelux Chapter (1998-2002). I was a member of the SPS Awards Board (2008-2010), the SPS Fellow Reference Committee (2014-2016), the SPS Nominations and Appointments Committee (2024), and the SPS Technical Committee on Signal Processing for Communications (first term 2005-2007, second term 2008-2010). I was a member of the ICASSP-2008 Organizing Committee, the EUSIPCO-2010 Organizing Committee (Tutorials Chair), and the EUSIPCO-2015 Organizing Committee (Awards Chair).\
 My editorial leadership roles include Editor-in-Chief for the EURASIP Journal on Advances in Signal Processing (2003-2005) and area editor for ‘Feature Articles’ for the IEEE Signal Processing Magazine (2012-2014). I was a member of the editorial board of the IEEE Transactions on Circuits and Systems-II (2002-2003), EURASIP Journal on Advances in Signal Processing (2001-2003), IEEE Signal Processing Magazine (2003-2005), EURASIP Journal on Wireless Communications and Networking (2003-2011), and Elsevier Signal Processing (2007-2011). 
 
 
@@ -57,7 +57,7 @@ I am a co-founder of conneXounds, a company developing BYOD audio technology for
 [conneXounds Link](https://www.connexounds.com)
 
 ### Ethics and values
-The circumstances surrounding these out-of-cycle elections have led to a growing division in the society’s governing bodies. Lessons must be learned and collegiality must be restored before anything else.
+The circumstances surrounding these out-of-cycle elections have led to a growing division in the society’s governing bodies. Lessons must be learned and collegiality must be restored before anything else.\
 I am committed to ensuring that all SPS members are treated fairly and equitably, have equal opportunities to contribute and thrive, and that volunteers are respected and valued for their invested time and effort. 
 I am committed to demonstrating professionalism and integrity, upholding the highest standards of our profession, and fostering trust and accountability to benefit our members and the wider community.
 
