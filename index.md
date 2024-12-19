@@ -6,7 +6,7 @@ hascode = false
 +++
 
 @def id = "statement"
-.\
+
 
 # Statement
 
@@ -30,7 +30,7 @@ SPS is often perceived as a non-transparent business offering overly expensive s
 Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.\
 
 @def id = "why_vote_for_me"
-.\
+
 
 # Why vote for me?
 
