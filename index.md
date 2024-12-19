@@ -52,7 +52,8 @@ My editorial leadership roles include Editor-in-Chief for the EURASIP Journal on
 I have been a Full Professor at KU Leuven, Belgium, since 2004. I obtained a PhD degree from KU Leuven in 1990, and have been a PhD and postdoctoral visiting researcher at the University of Stanford, University of Minnesota, and Delft University of Technology, and a visiting professor at ALaRI, University of Lugano.
 I am a Fellow of the IEEE (2007), Fellow of EURASIP (2018), recipient of the EURASIP Meritorious Service Award (2020) and the IEEE SPS Claude Shannon-Harry Nyquist Technical Achievement Award (2024), and co-recipient of the EU/CELTIC Excellence Award (for EU/CELTIC Project ‘BANITS’, 2008), as well as 10 journal/conference best paper awards.\
 For over 25 years I headed a team of 15+ PhD and postdoctoral researchers in the field of numerical algorithms and signal processing for digital communications, digital audio- and speech processing. I have supervised/co-supervised 60 defended PhD-theses, authored/co-authored 300+ journal papers (of which 175+ in IEEE journals) and 400+ international conference papers (of which 150+ in IEEE conferences). \
-[Google Scholar Link](https://scholar.google.com/citations?user=OX95yYsAAAAJ)
+[Google Scholar Link](https://scholar.google.com/citations?user=OX95yYsAAAAJ)\
+[MathGenealogy Link](https://www.mathgenealogy.org/id.php?id=97319)
 
 ### Industry and entrepreneurship experience
 My research has consistently had a strong industry focus, e.g., with over twenty years of ongoing cooperation in the area of digital subscriber lines (DSL) with Nokia Bell Labs (formerly Alcatel-Bell/Alcatel-Lucent) and in the area of hearing instruments and cochlear implants with Cochlear Ltd, which has resulted in 10+ patents/patent applications as well as several (DSL) standardization contributions.\ 
