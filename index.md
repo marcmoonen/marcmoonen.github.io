@@ -43,11 +43,6 @@ I served as President of EURASIP (European Association for Signal Processing) fo
 I coordinated the formal registration of EURASIP as a non-profit organization (under Belgian law) and drafted its inaugural Bylaws (2006). As Director of Publications (2005-2006), I drove the transition of selected EURASIP journals to Open Access and oversaw the launch of new Open Access journals.\
 For eight years (first term 2013-2017, second term 2017-2021), I was Head of Division of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics, a KU Leuven research division with 10+ professors and over 150 PhD- and postdoctoral researchers.
 
-### Volunteer service
-I held the role of Chair of the EURASIP Fellow Selection Committee (2018-2021) and Chair of the SPS Benelux Chapter (1998-2002). I was a member of the SPS Awards Board (2008-2010), the SPS Fellow Reference Committee (2014-2016), the SPS Nominations and Appointments Committee (2024), and the SPS Technical Committee on Signal Processing for Communications (first term 2005-2007, second term 2008-2010). I was a member of the ICASSP-2008 Organizing Committee, the EUSIPCO-2010 Organizing Committee (Tutorials Chair), and the EUSIPCO-2015 Organizing Committee (Awards Chair).\
-My editorial leadership roles include Editor-in-Chief for the EURASIP Journal on Advances in Signal Processing (2003-2005) and area editor for ‘Feature Articles’ for the IEEE Signal Processing Magazine (2012-2014). I was a member of the editorial board of the IEEE Transactions on Circuits and Systems-II (2002-2003), EURASIP Journal on Advances in Signal Processing (2001-2003), IEEE Signal Processing Magazine (2003-2005), EURASIP Journal on Wireless Communications and Networking (2003-2011), and Elsevier Signal Processing (2007-2011). 
-
-
 ### Academic record 
 I have been a Full Professor at KU Leuven, Belgium, since 2004. I obtained a PhD degree from KU Leuven in 1990, and have been a PhD and postdoctoral visiting researcher at the University of Stanford, University of Minnesota, and Delft University of Technology, and a visiting professor at ALaRI, University of Lugano.
 I am a Fellow of the IEEE (2007), Fellow of EURASIP (2018), recipient of the EURASIP Meritorious Service Award (2020) and the IEEE SPS Claude Shannon-Harry Nyquist Technical Achievement Award (2024), and co-recipient of the EU/CELTIC Excellence Award (for EU/CELTIC Project ‘BANITS’, 2008), as well as 10 journal/conference best paper awards.\
@@ -56,10 +51,14 @@ For over 25 years I headed a team of 15+ PhD and postdoctoral researchers in the
 [MathGenealogy Link](https://www.mathgenealogy.org/id.php?id=97319)
 
 ### Industry and entrepreneurship experience
-My research has consistently had a strong industry focus, e.g., with over twenty years of ongoing cooperation in the area of digital subscriber lines (DSL) with Nokia Bell Labs (formerly Alcatel-Bell/Alcatel-Lucent) and in the area of hearing instruments and cochlear implants with Cochlear Ltd, which has resulted in 10+ patents/patent applications as well as several (DSL) standardization contributions.\ 
+My research has consistently had a strong industry focus, e.g., with over twenty years of ongoing cooperation in the area of digital subscriber lines (DSL) with Nokia Bell Labs (formerly Alcatel-Bell/Alcatel-Lucent) and in the area of hearing instruments and cochlear implants with Cochlear Ltd, which has resulted in 10+ patents/patent applications as well as several (DSL) standardization contributions.\
 I am a co-founder of conneXounds, a company developing BYOD audio technology for hybrid meeting environments.\
 [Nokia Bell Labs Link](https://www.bell-labs.com/institute/blog/ku-leuven-professor-reflects-20-years-collaboration-bell-labs/)\
 [conneXounds Link](https://www.connexounds.com)
+
+### Volunteer service
+I held the role of Chair of the EURASIP Fellow Selection Committee (2018-2021) and Chair of the SPS Benelux Chapter (1998-2002). I was a member of the SPS Awards Board (2008-2010), the SPS Fellow Reference Committee (2014-2016), the SPS Nominations and Appointments Committee (2024), and the SPS Technical Committee on Signal Processing for Communications (first term 2005-2007, second term 2008-2010). I was a member of the ICASSP-2008 Organizing Committee, the EUSIPCO-2010 Organizing Committee (Tutorials Chair), and the EUSIPCO-2015 Organizing Committee (Awards Chair).\
+My editorial leadership roles include Editor-in-Chief for the EURASIP Journal on Advances in Signal Processing (2003-2005) and area editor for ‘Feature Articles’ for the IEEE Signal Processing Magazine (2012-2014). I was a member of the editorial board of the IEEE Transactions on Circuits and Systems-II (2002-2003), EURASIP Journal on Advances in Signal Processing (2001-2003), IEEE Signal Processing Magazine (2003-2005), EURASIP Journal on Wireless Communications and Networking (2003-2011), and Elsevier Signal Processing (2007-2011). 
 
 ### Ethics and values
 The circumstances surrounding these out-of-cycle elections have led to a division in the society’s governing bodies. Lessons must be learned and collegiality must be restored before anything else.\
