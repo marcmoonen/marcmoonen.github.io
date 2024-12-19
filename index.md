@@ -31,11 +31,11 @@ Addressing these and other challenges requires cooperation among leadership and 
 # Why vote for me?
 
 ### SPS leadership experience
-I served as SPS Vice President-Publications (2021-2023) and as member-at-large of the SPS Board of Governors (2020).\
+I served as SPS Vice President-Publications (2021-2023) and as member-at-large of the SPS Board of Governors (2020).
 As SPS Vice President-Publications I have sought to move beyond business as usual and drive meaningful, lasting change. Together with the Publications Board, I reorganized the workflow and editorial board structure in the largest SPS journals to improve timeliness and strengthen quality control, modified and automated the nomination/self-nomination process for editorial board members, adjusted policy to allow longer SAE/AE terms wherever relevant, initiated the OJSP short paper submission track for ICASSP/ICIP with editorial board sharing across journals, streamlined requirements for journal paper presentations in conferences, initiated paper cascading ideas, and revised several policies and procedures to improve overall efficiency.
 
 ### Other leadership experience 
-I served as President of EURASIP (European Association for Signal Processing) for four years (first term 2007-2008, second term 2011-2012). I served on the EURASIP Board of Directors for sixteen years (1999-2014), including terms as Treasurer/Secretary and as Director of Publications.\
+I served as President of EURASIP (European Association for Signal Processing) for four years (first term 2007-2008, second term 2011-2012). I served on the EURASIP Board of Directors for sixteen years (1999-2014), including terms as Treasurer/Secretary and as Director of Publications.
 I coordinated the formal registration of EURASIP as a non-profit organization (under Belgian law) and drafted its inaugural Bylaws (2006). As Director of Publications (2005-2006), I drove the transition of selected EURASIP journals to Open Access and oversaw the launch of new Open Access journals.\
 For eight years (first term 2013-2017, second term 2017-2021), I was Head of Division of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics, a KU Leuven research division with 10+ professors and over 150 PhD- and postdoctoral researchers.
 
@@ -53,7 +53,7 @@ For over 25 years I headed a team of 15+ PhD and postdoctoral researchers in the
 ### Industry and entrepreneurship experience
 My research has consistently had a strong industry focus, e.g., with over twenty years of ongoing cooperation in the area of digital subscriber lines (DSL) with Nokia Bell Labs (formerly Alcatel-Bell/Alcatel-Lucent) and in the area of hearing instruments and cochlear implants with Cochlear Ltd, which has resulted in 10+ patents/patent applications as well as several (DSL) standardization contributions.\
 [Nokia Bell Labs Link](https://www.bell-labs.com/institute/blog/ku-leuven-professor-reflects-20-years-collaboration-bell-labs/)\
-I am a co-founder of conneXounds, a company developing BYOD audio technology for hybrid meeting environments.\ 
+I am a co-founder of conneXounds, a company developing BYOD audio technology for hybrid meeting environments.\
 [conneXounds Link](https://www.connexounds.com)
 
 ### Ethics and values
