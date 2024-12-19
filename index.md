@@ -61,7 +61,7 @@ I am a co-founder of conneXounds, a company developing BYOD audio technology for
 [conneXounds Link](https://www.connexounds.com)
 
 ### Ethics and values
-The circumstances surrounding these out-of-cycle elections have led to a growing division in the society’s governing bodies. Lessons must be learned and collegiality must be restored before anything else.\
+The circumstances surrounding these out-of-cycle elections have led to a division in the society’s governing bodies. Lessons must be learned and collegiality must be restored before anything else.\
 I am committed to ensuring that all SPS members are treated fairly and equitably, have equal opportunities to contribute and thrive, and that volunteers are respected and valued for their invested time and effort. 
 I am committed to demonstrating professionalism and integrity, upholding the highest standards of our profession, and fostering trust and accountability to benefit our members and the wider community.
 
