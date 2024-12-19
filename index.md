@@ -6,6 +6,7 @@ hascode = false
 +++
 
 @def id = "statement"
+
 # Statement
 
 SPS appears to be thriving, e.g., with membership and journal/conference submission numbers showing consistent growth. Nevertheless, it has become clear that some of its critical structures and processes have become non-scalable, non-sustainable, or even malfunctioning. It is essential that these be redesigned to support healthy further growth. This should be done with emphasis on service and quality, rather than profit and quantity, while demonstrating appreciation and respect for volunteers. 
@@ -28,6 +29,7 @@ SPS is often perceived as a non-transparent business offering overly expensive s
 Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.\
 
 @def id = "why_vote_for_me"
+
 # Why vote for me?
 
 ### SPS leadership experience
