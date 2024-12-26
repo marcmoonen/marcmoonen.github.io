@@ -61,7 +61,7 @@ I held the role of Chair of the EURASIP Fellow Selection Committee (2018-2021) a
 My editorial leadership roles include Editor-in-Chief for the EURASIP Journal on Advances in Signal Processing (2003-2005) and area editor for ‘Feature Articles’ for the IEEE Signal Processing Magazine (2012-2014). I was a member of the editorial board of the IEEE Transactions on Circuits and Systems-II (2002-2003), EURASIP Journal on Advances in Signal Processing (2001-2003), IEEE Signal Processing Magazine (2003-2005), EURASIP Journal on Wireless Communications and Networking (2003-2011), and Elsevier Signal Processing (2007-2011). 
 
 ### Ethics and values
-The circumstances surrounding these out-of-cycle elections have led to a division in the society’s governing bodies. Lessons must be learned and collegiality must be restored before anything else.\
+In the most challenging discussions leading up to these out-of-cycle elections, I have consistently upheld principles and ethical standards.
 I am committed to ensuring that all SPS members are treated fairly and equitably, have equal opportunities to contribute and thrive, and that volunteers are respected and valued for their invested time and effort. 
 I am committed to demonstrating professionalism and integrity, upholding the highest standards of our profession, and fostering trust and accountability to benefit our members and the wider community.
 
