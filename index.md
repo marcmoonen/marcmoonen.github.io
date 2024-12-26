@@ -66,7 +66,7 @@ I am committed to ensuring that all SPS members are treated fairly and equitably
 I am committed to demonstrating professionalism and integrity, upholding the highest standards of our profession, and fostering trust and accountability to benefit our members and the wider community.
 
 
-@def id = "How about Open Access?"
+@def id = "PS: How about Open Access?"
 \
 
 # PS: How about Open Access?
