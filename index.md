@@ -43,7 +43,7 @@ As SPS Vice President-Publications I have sought to move beyond business as usua
 ### Other leadership experience 
 I served as President of EURASIP (European Association for Signal Processing) for four years (first term 2007-2008, second term 2011-2012). I served on the EURASIP Board of Directors for sixteen years (1999-2014), including terms as Treasurer/Secretary and as Director of Publications.
 I coordinated the formal registration of EURASIP as a non-profit organization (under Belgian law) and drafted its inaugural Bylaws (2006). As Director of Publications (2005-2006), I drove the transition of selected EURASIP journals to Open Access and oversaw the launch of new Open Access journals.\
-For eight years (first term 2013-2017, second term 2017-2021), I was Head of Division of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics, a KU Leuven research division with 10+ professors and over 150 PhD- and postdoctoral researchers.
+For eight years (first term 2013-2017, second term 2017-2021), I was Head of Division of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics, a KU Leuven research division with 10+ professors and over 150 PhD and postdoctoral researchers.
 
 ### Academic record 
 I have been a Full Professor at KU Leuven, Belgium, since 2004. I obtained a PhD degree from KU Leuven in 1990, and have been a PhD and postdoctoral visiting researcher at the University of Stanford, University of Minnesota, and Delft University of Technology, and a visiting professor at ALaRI, University of Lugano.
