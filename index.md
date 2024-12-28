@@ -27,7 +27,7 @@ Full support will be given to new initiatives aimed at enhancing member services
 IEEE ethical standards must be strictly enforced. In a globalized community with significant cultural differences, more ethics education should be provided, while strong ethical leadership should foster a culture of integrity and transparency. Journals and conferences are increasingly dealing with author/reviewer misconduct cases (ChatGPT!). To ensure consistency and efficiency, and offload editorial boards and conference committees, a society-level ethics committee should be established as a gateway to IEEE-level support. 
  
 ### Finances
-SPS is often perceived as a non-transparent business offering overly expensive services. SPS activities are primarily financed from publication revenue. This relies on a paywall model, which is increasingly at risk with the proliferation of free repositories, and in all likelihood will be significantly reduced by the transition to open access. Therefore, a more transparent and sustainable financial model should be adopted.
+SPS is often perceived as a non-transparent business offering overly expensive services. SPS activities are primarily financed from publication revenue. This relies on a paywall model, which is increasingly at risk with the proliferation of free repositories, and in all likelihood will be significantly reduced by the transition to open access (cfr. infra). Therefore, a more transparent and sustainable financial model should be adopted.
  
 Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.\
 
@@ -71,7 +71,7 @@ I am committed to demonstrating professionalism and integrity, upholding the hig
 @def id = "ps_how_about_open_access"
 \
 
-# PS: How about Open Access?
+# PS: Quid Open Access?
 
 SPS currently has only one full Open Access journal (IEEE Open Journal of Signal Processing, OJSP), next to offering a standard Open Access option in all of its other (Hybrid) journals. A frequently asked question is whether (and when) SPS should further transition to Open Access.  Open Access certainly remains a highly desirable publication model for several reasons, but transitioning all SPS journals to Open Access will also have significant implications:\
 The Open Access (‘author pays’) model has been promoted for over two decades, as a reaction to rising journal subscription fees, outpacing academic institutions' library budgets. Open Access has also been promoted by funding agencies stating that the results of publicly funded (academic) research should not be locked behind a paywall. Finally, Open Access provides full financial transparency, in that the total per-published-paper revenue for the publisher is the Article Processing Charge (APC) paid by the author, nothing more nothing less.\
