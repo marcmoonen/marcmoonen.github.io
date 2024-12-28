@@ -68,7 +68,7 @@ I am committed to ensuring that all SPS members are treated fairly and equitably
 I am committed to demonstrating professionalism and integrity, upholding the highest standards of our profession, and fostering trust and accountability to benefit our members and the wider community.
 
 
-@def id = "ps_how_about_open_access"
+@def id = "ps_quid_open_access"
 \
 
 # PS: Quid Open Access?
