@@ -64,7 +64,7 @@ My editorial leadership roles include Editor-in-Chief for the EURASIP Journal on
 I held the role of Chair of the EURASIP Fellow Selection Committee (2018-2021) and Chair of the SPS Benelux Chapter (1998-2002). I was a member of the SPS Awards Board (2008-2010), the SPS Fellow Reference Committee (2014-2016), the SPS Nominations and Appointments Committee (2024), and the SPS Technical Committee on Signal Processing for Communications (first term 2005-2007, second term 2008-2010). I was a member of the ICASSP-2008 Organizing Committee, the EUSIPCO-2010 Organizing Committee (Tutorials Chair), and the EUSIPCO-2015 Organizing Committee (Awards Chair).
  
 ### Ethics and values
-In the most challenging discussions leading up to these out-of-cycle elections, I have consistently upheld principles and ethical standards.\
+In the most difficult discussions leading up to these out-of-cycle elections, I have consistently upheld principles and ethical standards.\
 I am committed to ensuring that all SPS members are treated fairly and equitably, have equal opportunities to contribute and thrive, and that volunteers are respected and valued for their invested time and effort.\
 I am committed to demonstrating professionalism and integrity, upholding the highest standards of our profession, and fostering trust and accountability to benefit our members and the wider community.
 
