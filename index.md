@@ -18,7 +18,7 @@ Major challenges are as follows:
 ### Journals and conferences
 Although conferences are often viewed as the fastest route for publishing recent results, it is important to recognize that our journals in fact offer comparable submission-to-publication timelines. Journals and conferences should therefore be jointly managed as one ecosystem, to fully exploit journal-conference synergies, increase overall efficiency and optimally (re)use review resources, and to allow strategic positioning against the newer (but larger) ML/AI conferences by capitalizing on the strong reputation of our journals.\
 To ensure consistency across journal and conference publication policies, closer collaboration between the Publications Board and Conferences Board is needed. To guarantee continuity and correctness in policy implementation, structural assistance should be provided to conference organizing committees.\
-For publications, Open Access should be kept affordable and more heavily supported (cfr. ‘PS’ on Open Access). For conferences, hybrid/virtual formats should be further developed for those not able to travel (e.g., for financial reasons) or not willing to travel (e.g., for ecological reasons).
+For publications, Open Access should be kept affordable and more heavily supported (see ‘PS’ on Open Access). For conferences, hybrid/virtual formats should be further developed for those not able to travel (e.g., for financial reasons) or not willing to travel (e.g., for ecological reasons).
 
  
 ### Quality control
