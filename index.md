@@ -35,7 +35,7 @@ Journals and conferences are increasingly dealing with author/reviewer misconduc
 
 ### Governance
 In the present structure, strategic decisions are mostly made by individual Vice Presidents and their respective Boards, i.e. in a bottom-up rather than top-down manner and with only limited consultation within the ExCom or BoG. To enhance consistency across Boards and continuity between Vice President tenures, more opportunities should be created for strategic discussions within the ExCom, with a stronger role for the Long-Range Planning and Implementation Committee, chaired by the President-Elect.\
-Strategic decisions should also be communicated transparently to the membership, for example, through more regular Signal Processing Magazine items contributed by the Officers.
+Strategic decisions should also be communicated transparently to the membership, e.g., through regular Signal Processing Magazine items contributed by the Officers.
 
  
 ### Finances
