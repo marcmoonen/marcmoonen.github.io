@@ -40,6 +40,7 @@ Strategic decisions should also be communicated transparently to the membership,
  
 ### Finances
 SPS is often perceived as a non-transparent business offering overly expensive services. In reality, SPS revenue is primarily publication revenue (from journal and conference publications), hence many SPS activities are primarily financed from publication revenue. However, this relies on a paywall model, which is increasingly at risk with the proliferation of free public repositories, and in all likelihood will be significantly reduced by the transition to Open Access (see ‘PS’ on Open Access). Therefore, a more transparent and sustainable financial model should be adopted, based on a critical analysis of our current cost structure and expenses.\
+\
 
 Addressing these (and other) challenges will require creativity and cooperation among leadership and volunteers, in an open culture of debate, collegiality, diversity and inclusion.  I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.\
 
