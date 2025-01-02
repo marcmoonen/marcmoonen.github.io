@@ -12,13 +12,13 @@ hascode = false
 
 # Statement
 
-SPS appears to be thriving, e.g., with membership and journal/conference submission numbers showing consistent growth. Nevertheless, it is becoming apparent that some of our critical structures and processes are non-scalable, non-sustainable, even malfunctioning. It is essential that these be revised or redesigned to support healthy further growth. This should be done with emphasis on service and quality, rather than profit and quantity, while demonstrating appreciation and respect for volunteers.\
+SPS appears to be thriving, with membership and journal/conference submission numbers showing consistent growth. However, it is becoming clear that some of our critical structures and processes are no longer scalable or sustainable, and in some cases, are even malfunctioning. Revising or redesigning these will be essential and should be prioritized to support healthy further growth. This should be done with emphasis on service and quality, rather than profit and quantity, while demonstrating appreciation and respect for volunteers.\
 Major challenges are as follows:
  
 ### Journals and conferences
-While conferences are often seen as the fastest route for publishing recent results, it should be recognized that our journals effectively offer the same target submission-to-publication timelines. Journals and conferences should therefore be jointly managed as one ecosystem, to fully exploit journal-conference synergies, increase overall efficiency, e.g., by eliminating unnecessary conference precursors wherever possible, to optimally (re)use review resources, and to allow strategic positioning against the newer (but larger) ML/AI conferences by capitalizing on the strong reputation of our journals.\
-To guarantee consistent journal and conference publication policies, closer collaboration is needed between the Publications Board and Conferences Board. To guarantee continuity and correctness in policy implementation, structural assistance should be provided to conference organizing committees.\
-For publications, Open Access should be kept affordable and more heavily supported (cfr. infra on Open Access). For conferences, hybrid/virtual formats should be further developed for those not able to travel (e.g., for financial reasons) or not willing to travel (e.g., for ecological reasons).
+Although conferences are often viewed as the fastest route for publishing recent results, it is important to recognize that our journals in fact offer comparable submission-to-publication timelines. Journals and conferences should therefore be jointly managed as one ecosystem, to fully exploit journal-conference synergies, increase overall efficiency and optimally (re)use review resources, and to allow strategic positioning against the newer (but larger) ML/AI conferences by capitalizing on the strong reputation of our journals.\
+To ensure consistency across journal and conference publication policies, closer collaboration between the Publications Board and Conferences Board is needed. To guarantee continuity and correctness in policy implementation, structural assistance should be provided to conference organizing committees.\
+For publications, Open Access should be kept affordable and more heavily supported (cfr. ‘PS’ on Open Access). For conferences, hybrid/virtual formats should be further developed for those not able to travel (e.g., for financial reasons) or not willing to travel (e.g., for ecological reasons).
 
  
 ### Quality control
@@ -26,21 +26,22 @@ Quality control through peer review is essential to the scientific method and, t
 In addition to the recent adjustments to the workflow and editorial board structure in the largest SPS journals, to improve timeliness and strengthen quality control, it will be necessary to establish a framework to systematically enforce review commitments and monitor peer review performance, to safeguard review quality and editorial productivity. This would also help reduce the review load for the Technical Committees, enabling them to achieve a better balance with their other missions.
  
 ### Services vs. service
-Full support will be given to new initiatives aimed at enhancing member services, e.g., the new educational program to offer curated educational content, and the establishment of the Industry Board to better serve industry members.\
-Simultaneously, many more members should be encouraged to take on active volunteer roles, e.g., as reviewers, editors, Technical Committee members, mentors. More opportunities should be provided for early career volunteers, training activities should be expanded. To engage more members into sustained volunteer service, volunteer positions should require realistically budgeted time commitments and be sufficiently supported by staff.
- 
+Full support will be given to new initiatives aimed at enhancing member services, e.g., the educational program to offer curated educational content, and the establishment of the Industry Board to better serve our industry members.\
+Simultaneously, many more members should be encouraged to take on active volunteer roles, e.g., as reviewers, editors, Technical Committee members, mentors. More opportunities should be provided for early-career volunteers and training activities should be expanded significantly. To engage more members into sustained volunteer service, volunteer positions should require realistically budgeted time commitments and be sufficiently supported by staff.
+
 ### Ethics
 IEEE ethical standards must be strictly enforced. In a globalized community with significant cultural differences, more ethics education should be provided, while strong ethical leadership should foster a culture of integrity and transparency.\
-Journals and conferences are increasingly dealing with author/reviewer misconduct cases (ChatGPT!). To ensure consistency and efficiency, and offload editorial boards and conference committees, a society-level ethics committee should be established as a gateway to IEEE-level support. 
+Journals and conferences are increasingly dealing with author/reviewer misconduct cases (ChatGPT!), where individual investigations are excessively time-consuming and consistency across cases is not guaranteed. To ensure efficiency and consistency, and offload editorial boards and conference committees, a society-level ethics committee should be established as a gateway to IEEE-level support. 
 
 ### Governance
-Currently, strategic decisions are mostly made by individual Vice Presidents and their respective Boards, i.e. in a bottom-up rather than top-down manner and with only limited consultation within the ExCom or BoG. To enhance consistency and continuity, more opportunities should be created for strategic discussions within the ExCom, with a stronger role for the Long-Range Planning and Implementation Committee, chaired by the President-Elect.\
-Strategic decisions should also be communicated to the membership, for example, e.g., through contributions in the Signal Processing Magazine.
+In the present structure, strategic decisions are mostly made by individual Vice Presidents and their respective Boards, i.e. in a bottom-up rather than top-down manner and with only limited consultation within the ExCom or BoG. To enhance consistency across Boards and continuity between Vice President tenures, more opportunities should be created for strategic discussions within the ExCom, with a stronger role for the Long-Range Planning and Implementation Committee, chaired by the President-Elect.\
+Strategic decisions should also be communicated transparently to the membership, for example, through more regular Signal Processing Magazine items contributed by the Officers.
+
  
 ### Finances
-SPS is often perceived as a non-transparent business offering overly expensive services. SPS activities are primarily financed from publication revenue. This relies on a paywall model, which is increasingly at risk with the proliferation of free repositories, and in all likelihood will be significantly reduced by the transition to open access ((cfr. infra on Open Access). Therefore, a more transparent and sustainable financial model should be adopted.
- 
-Addressing these and other challenges requires cooperation among leadership and volunteers. I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.\
+SPS is often perceived as a non-transparent business offering overly expensive services. In reality, SPS revenue is primarily publication revenue (from journal and conference publications), hence many SPS activities are primarily financed from publication revenue. However, this relies on a paywall model, which is increasingly at risk with the proliferation of free public repositories, and in all likelihood will be significantly reduced by the transition to Open Access (see ‘PS’ on Open Access). Therefore, a more transparent and sustainable financial model should be adopted, based on a critical analysis of our current cost structure and expenses.\
+
+Addressing these (and other) challenges will require creativity and cooperation among leadership and volunteers, in an open culture of debate, collegiality, diversity and inclusion.  I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.\
 
 @def id = "why_vote_for_me"
 \
