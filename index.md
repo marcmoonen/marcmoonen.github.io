@@ -18,7 +18,7 @@ Major challenges are as follows:
 ### Journals and conferences
 Although conferences are often viewed as the fastest route for publishing recent results, it is important to recognize that our journals in fact offer comparable submission-to-publication timelines. Journals and conferences should therefore be jointly managed as one ecosystem, to fully exploit journal-conference synergies, increase overall efficiency and optimally (re)use review resources, and to allow strategic positioning against the newer (but larger) ML/AI conferences by capitalizing on the strong reputation of our journals.\
 To ensure consistency across journal and conference publication policies, closer collaboration between the Publications Board and Conferences Board is needed. To guarantee continuity and correctness in policy implementation, structural assistance should be provided to conference organizing committees.\
-For publications, Open Access should be kept affordable and more heavily supported (see ‘PS’ on Open Access). For conferences, hybrid/virtual formats should be further developed for those not able to travel (e.g., for financial reasons) or not willing to travel (e.g., for ecological reasons).
+Open Access publication, as advocated by our funding agencies, should be kept affordable and should be supported and promoted more heavily. For conferences, hybrid/virtual formats should be further developed for those not able to travel (e.g., for financial reasons) or not willing to travel (e.g., for ecological reasons).
 
  
 ### Quality control
@@ -34,12 +34,12 @@ IEEE ethical standards must be strictly enforced. In a globalized community with
 Journals and conferences are increasingly dealing with author/reviewer misconduct cases (ChatGPT!), where individual investigations are excessively time-consuming and consistency across cases is not guaranteed. To ensure efficiency and consistency, and offload editorial boards and conference committees, a society-level ethics committee should be established as a gateway to IEEE-level support. 
 
 ### Governance
-In the present structure, strategic decisions are mostly made by individual Vice Presidents and their respective Boards, i.e. in a bottom-up rather than top-down manner and with only limited consultation within the ExCom or BoG. To enhance consistency across Boards and continuity between Vice President tenures, more opportunities should be created for strategic discussions within the ExCom, with a stronger role for the Long-Range Planning and Implementation Committee, chaired by the President-Elect.\
+In the present structure, strategic decisions are mostly made by individual Vice Presidents and their respective Boards, i.e. in a bottom-up manner and with only limited consultation within the ExCom or BoG. To enhance consistency across Boards and continuity between Vice President tenures, more opportunities should be created for strategic discussions within the ExCom, with a stronger role for the Long-Range Planning and Implementation Committee, chaired by the President-Elect.\
 Strategic decisions should also be communicated transparently to the membership, e.g., through regular Signal Processing Magazine items contributed by the Officers.
 
  
 ### Finances
-SPS is often perceived as a non-transparent business offering overly expensive services. In reality, SPS revenue is primarily publication revenue (from journal and conference publications), hence many SPS activities are primarily financed from publication revenue. However, this relies on a paywall model, which is increasingly at risk with the proliferation of free public repositories, and in all likelihood will be significantly reduced by the transition to Open Access (see ‘PS’ on Open Access). Therefore, a more transparent and sustainable financial model should be adopted, based on a critical analysis of our current cost structure and expenses.\
+SPS is often perceived as a non-transparent business offering overly expensive services. In reality, SPS revenue is primarily publication revenue (from journal and conference publications), hence many SPS activities are primarily financed from publication revenue. However, this relies on a paywall model, which is increasingly at risk with the proliferation of free public repositories, and in all likelihood will be significantly reduced by the transition to Open Access (a persistent misconception is that Open Access publication is financially more profitable than traditional Toll Access publication, but in fact it is the other way around). Therefore, a more transparent and sustainable financial model should be adopted, proceeding from a critical analysis of our current cost structure and expenses, and extending well beyond publication activities.\
 \
 
 Addressing these (and other) challenges will require creativity and cooperation among leadership and volunteers, in an open culture of debate, collegiality, diversity and inclusion.  I firmly believe that my recent involvement in SPS has given me the experience and understanding to lead this endeavor.\
@@ -56,8 +56,7 @@ As SPS Vice President-Publications I have sought to move beyond business as usua
 ### Other leadership experience 
 I served as President of EURASIP (European Association for Signal Processing) for four years (first term 2007-2008, second term 2011-2012). I served on the EURASIP Board of Directors for sixteen years (1999-2014), including terms as Treasurer/Secretary and as Director of Publications.
 I coordinated the formal registration of EURASIP as a non-profit organization (under Belgian law) and drafted its inaugural Bylaws (2006). As Director of Publications (2005-2006), I drove the transition of selected EURASIP journals to Open Access and oversaw the launch of new Open Access journals.\
- \
- For eight years (first term 2013-2017, second term 2017-2021), I was Head of Division of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics, a KU Leuven research division with 10+ professors and over 150 PhD and postdoctoral researchers.
+For eight years (first term 2013-2017, second term 2017-2021), I was Head of Division of STADIUS Center for Dynamical Systems, Signal Processing, and Data Analytics, a KU Leuven research division with 10+ professors and over 150 PhD and postdoctoral researchers.
 
 ### Academic record 
 I have been a Full Professor at KU Leuven, Belgium, since 2004. I obtained a PhD degree from KU Leuven in 1990, and have been a PhD and postdoctoral visiting researcher at the University of Stanford, University of Minnesota, and Delft University of Technology, and a visiting professor at ALaRI, University of Lugano.
@@ -81,16 +80,4 @@ In the most difficult discussions leading up to these out-of-cycle elections, I 
 I am committed to ensuring that all SPS members are treated fairly and equitably, have equal opportunities to contribute and thrive, and that volunteers are respected and valued for their invested time and effort.\
 I am committed to demonstrating professionalism and integrity, upholding the highest standards of our profession, and fostering trust and accountability to benefit our members and the wider community.
 
-
-@def id = "ps_quid_open_access"
-\
-
-# PS: Quid Open Access?
-
-SPS currently has only one full Open Access journal (IEEE Open Journal of Signal Processing, OJSP), next to offering a standard Open Access option in all of its other (Hybrid) journals. A frequently asked question is whether (and when) SPS should further transition to Open Access.  Open Access certainly remains a highly desirable publication model for several reasons, but transitioning all SPS journals to Open Access will also have significant implications:\
-### Why Open Access? 
-The Open Access (‘author pays’) model has been promoted for over two decades, as a reaction to rising journal subscription fees, outpacing academic institutions' library budgets. Open Access has also been promoted by funding agencies stating that the results of publicly funded (academic) research should not be locked behind a paywall. Finally, the Open Access model provides full financial transparency, in that the total per-published-paper revenue for the publisher is the Article Processing Charge (APC) paid by the author, nothing more nothing less.
-### Finances 
-In the traditional Toll Access (‘reader pays’) model, such financial transparency is lacking, e.g., IEEE Xplore institutional subscription fees are not publicly advertised. However, the average per-published-paper revenue under the Toll Access model significantly exceeds the current Open Access APC, namely by a factor of more than two. A persistent misconception is that Open Access is financially more profitable than Toll Access, but so it is not, in fact it is the other way around.\
-While commercial publishers have been (successfully) delaying the transition to Open Access to preserve shareholder profit, e.g., by adopting the Hybrid (a.k.a. ‘double dipping’) model, IEEE has followed similar strategies to preserve critical revenue that funds much of its operation. And so this also holds for SPS: While flipping its journals to Open Access -and doing so without increasing the APC- is desirable (and is indeed long overdue), it will have a significant financial impact, necessitating a critical analysis of all current expenses, extending far beyond mere publication activity.    
 
