@@ -10,6 +10,8 @@ hascode = false
 \
 \
 
+### Online voting will open on 6 February 2025 and close on 26 March 2025
+
 # Statement
 
 SPS appears to be thriving, with membership and journal/conference submission numbers showing consistent growth. However, it is becoming clear that some of our critical structures and processes are no longer scalable or sustainable, and in some cases, are even malfunctioning. Revising or redesigning these will be essential and should be prioritized to support healthy further growth. This should be done with emphasis on service and quality, rather than profit and quantity, while demonstrating appreciation and respect for volunteers.\
