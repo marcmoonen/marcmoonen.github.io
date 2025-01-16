@@ -22,7 +22,9 @@ Open Access publication, as advocated by our funding agencies, should be kept af
 
  
 ### Quality control
-Quality control through peer review is essential to the scientific method and, therefore, to one of our most important member services, i.e. the dissemination of peer-reviewed scientific material. However, with growing journal/conference submission numbers, our current peer-review process does not appear to scale well. Recruiting qualified reviewers, especially in journals, has become more problematic than ever, leading to missed timeliness targets, burnout among editors, and dissatisfaction among authors.\
+
+Quality control through peer review is fundamental to the scientific method and, therefore, to one of our most important member services, i.e. the dissemination of rigorously reviewed scientific material. However, the growing volume of journal and conference submissions is increasingly revealing a serious peer-review crisis, as our current review process struggles to scale effectively.
+Recruiting qualified reviewers, especially in journals, has become more problematic than ever, leading to missed timeliness targets, burnout among editors, and dissatisfaction among authors.\
 In addition to the recent adjustments to the workflow and editorial board structure in the largest SPS journals, to improve timeliness and strengthen quality control, it will be necessary to establish a framework to systematically enforce review commitments and monitor peer review performance, to safeguard review quality and editorial productivity. This would also help reduce the review load for the Technical Committees, enabling them to achieve a better balance with their other missions.
  
 ### Services vs. service
