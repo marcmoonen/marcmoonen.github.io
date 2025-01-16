@@ -11,8 +11,7 @@ hascode = false
 ### Online voting will open on 6 February 2025 and close on 26 March 2025
 
 \
-\
-\
+
 
 # Statement
 
